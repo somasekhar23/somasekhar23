@@ -30,5 +30,5 @@ As a dedicated backend developer, I am passionate about building robust and effi
 ## 📝 Visitor Count
 
 <p align="center">
-  ![Visitor Count](https://komarev.com/ghpvc/?username=YourUsername&color=brightgreen)
+  ![Visitor Count](https://komarev.com/ghpvc/?username=somasekhar23&color=brightgreen)
 </p>
